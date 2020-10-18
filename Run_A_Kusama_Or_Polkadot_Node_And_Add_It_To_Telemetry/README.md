@@ -10,4 +10,5 @@ Node name: hqueue-gitcoin
 ![](https://github.com/hqueue/polkadot-hackathon/blob/main/Run_A_Kusama_Or_Polkadot_Node_And_Add_It_To_Telemetry/Run_polkadot_node.png?raw=true)
 
 2. Node on telemetry
+https://telemetry.polkadot.io/#/Polkadot
 ![](https://github.com/hqueue/polkadot-hackathon/blob/main/Run_A_Kusama_Or_Polkadot_Node_And_Add_It_To_Telemetry/Telemetry.png?raw=true)
