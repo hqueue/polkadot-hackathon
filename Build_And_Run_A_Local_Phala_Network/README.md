@@ -11,6 +11,9 @@ https://gitcoin.co/issue/Phala-Network/hello-world-by-polkadot/1/100023945
 
 ### Task 3 - Send the screenshot and share your feeling on Twitter
 
+https://twitter.com/hyungkyu_hqueue/status/1318257493936517121
+
 
 ### Task 4 - Join our Discord server and submit the the link to your tweet
 
+https://discordapp.com/channels/697726436211163147/706401317240963142/767817857588527134
