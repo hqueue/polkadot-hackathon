@@ -11,4 +11,9 @@ Node name: hqueue-gitcoin
 
 2. Node on telemetry
 https://telemetry.polkadot.io/#/Polkadot
+
+After synced to the latest block
+![](https://github.com/hqueue/polkadot-hackathon/blob/main/Run_A_Kusama_Or_Polkadot_Node_And_Add_It_To_Telemetry/Telemetry_after_sync.png?raw=true)
+
+When start syncing.
 ![](https://github.com/hqueue/polkadot-hackathon/blob/main/Run_A_Kusama_Or_Polkadot_Node_And_Add_It_To_Telemetry/Telemetry.png?raw=true)
